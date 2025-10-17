@@ -9,7 +9,8 @@
 ### 를 연습하기 위해 만들어졌습니다.
 
 # 5주차 1차시 강의 내용 요약
-### State Variables
+
+### State Variables  
 
 이전 수업까지 system을 풀기 위해서 미분방정식을 이용해서 수학적인 모델을 세워왔습니다.  
 이때 일종의 직관에 의존을 해서 물리적인 현상으로부터 수식으로 바로 유도를 했습니다.  
@@ -19,6 +20,7 @@ system 안에 뭔가 의미있는 부분을 state로 정의하고 이 state를 �
 물론 state는 input에도 영향을 받고 state 끼리도 영향을 주고받을 것입니다.  
 마지막으로 output도 input 뿐만아니라 state에까지 영향을 받을것입니다.  
 그렇다면 어떻게 system을 state로 정의하는지 연습해보겠습니다.
+
 EX1: spring-mass-damper system
 ---
 
@@ -74,9 +76,9 @@ $$X(s)=\frac{1}{s-a}x(0)+\frac{1}{s-a}bU(s)$$
 
 $$x(t)=e^{at}x(0)+\int{e^{a(t-\tau)}bu(\tau)d\tau}$$
 
-$$x(t)=\Phi(t) \cdot x(0)+\int{\Phi(t-\tau)bu(\tau)d\tau}$$
+$$x(t)=\Phi(t) \&middot x(0)+\int{\Phi(t-\tau)bu(\tau)d\tau}$$
 
-$$\Phi(t) \cdot x(0)$$ 는 transition from initial state , $$\int{\Phi(t-\tau)bu(\tau)d\tau}$$는 Effect of input
+$$\Phi(t) \&middot x(0)$$는 transition from initial state , $$\int{\Phi(t-\tau)bu(\tau)d\tau}$$는 Effect of input
 
 State vector and state space equation
 ---
