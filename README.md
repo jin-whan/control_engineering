@@ -53,9 +53,9 @@ x1과 x2는 항등식만 아니면 됩니다. 예를 들면 i_L과 v_o는 옴의
 
 $$x_1(t)=v_c(t)$$ , $$x_2(t)=i_L(t)$$
 
-$$u(t)=C\frac{dx_1(t)}{dt}+x_2(t)$$ $\rightarrow$ $$\frac{dx_1(t)}{dt}=\frac{1}{C}[-x_2(t)+u(t)]$$
+$$u(t)=C\frac{dx_1(t)}{dt}+x_2(t)\rightarrow\frac{dx_1(t)}{dt}=\frac{1}{C}[-x_2(t)+u(t)]$$
 
-$$L\frac{x_2(t)}{dt}+Rx_2(t)-x_1(t)=0$$ $\rightarrow$ $$\frac{dx_2(t)}{dt}=\frac{1}{L}[x_1(t)-Rx_2(t)]$$
+$$L\frac{x_2(t)}{dt}+Rx_2(t)-x_1(t)=0\rightarrow\frac{dx_2(t)}{dt}=\frac{1}{L}[x_1(t)-Rx_2(t)]$$
 
 $$\frac{dx_1(t)}{dt}=\frac{1}{C}[-x_2(t)+u(t)]$$
 
