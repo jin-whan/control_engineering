@@ -26,7 +26,7 @@ EX1: spring-mass-damper system
 
 <center>
 
-![EX1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FV8pkg%2FbtsRacg8oLx%2FAAAAAAAAAAAAAAAAAAAAAB-w0tzIsDn8ZEzW2wKHDiObe2-tnRc01ZJntedRaoAi%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DroFtSZ5QN6AJKau6EFXRQoxImmU%253D)
+![EX1](./image/1.png)
 
 </center>
 
@@ -45,7 +45,7 @@ EX2: R-L-C circuit system
 
 <center>
 
-![EX1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FboZ04f%2FbtsRadG6kul%2FAAAAAAAAAAAAAAAAAAAAADq_uqk5OFDYd_F34v6kLqHgRFluo-Nd04chWrjfbJah%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DEfFeG1jbZRvHkzjtCBX6pO7DBlM%253D)
+![EX1](./image/2.png)
 
 </center>
 
